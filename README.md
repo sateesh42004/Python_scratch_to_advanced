@@ -1,7 +1,7 @@
 @#$ My Python Learning Roadmap
 
 This repository documents my 12-week Python journey — from basics revision → advanced concepts → projects.
-It includes a daily/weekly study plan, projects (mini + major), and GitHub best practices.
+It includes a daily/weekly study plan, projects (mini + major), and GitHub best practices. 
 
 &&&& Weekly Plan (Day-by-Day with Projects) &&&&&&&
 
